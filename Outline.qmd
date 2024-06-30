@@ -47,7 +47,7 @@ can create the estimation for local averaging i.e. $m(x)$ can be
 estimated with the product of $Y_i$ average and $X_i$ is near to $x$. In
 other words, this means that we are discovering the line through the
 data points with the help of surrounding data points. The estimation
-formula is printed below [@R-base]:
+formula is printed ....below [@R-base]:
 
 $$
 M_n(x) = \sum_{i=1}^{n} W_n (X_i) Y_i  \tag{1}
